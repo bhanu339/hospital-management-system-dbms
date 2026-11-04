@@ -1,0 +1,42 @@
+## Requirements
+
+### Software Requirements
+
+* Python 3.10 or above
+* Streamlit
+* Pandas
+* NumPy
+* Plotly
+* MySQL / SQLite (for database integration)
+* VS Code
+* Google Chrome or any modern web browser
+
+### Hardware Requirements
+
+* Processor: Intel Core i3 or above
+* RAM: Minimum 4 GB
+* Storage: Minimum 500 MB free space
+* Operating System: Windows 10/11
+
+### Python Libraries
+
+Install the required libraries using:
+
+```bash
+pip install streamlit pandas numpy plotly
+```
+
+### Run the Application
+
+```bash
+streamlit run main.py
+```
+
+### Technologies Used
+
+* Python – Backend Programming
+* Streamlit – Web Dashboard
+* Pandas – Data Processing
+* NumPy – Numerical Operations
+* Plotly – Interactive Data Visualization
+* MySQL – Database Management (if integrated)
